@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://apetulante.github.io',
                 'git_url': 'https://github.com/apetulante/nbdev_tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': { 'nbdev_tutorial.core': { 'nbdev_tutorial.core.add': ('simple_functions.html#add', 'nbdev_tutorial/core.py'),
+                                     'nbdev_tutorial.core.multiply': ('simple_functions.html#multiply', 'nbdev_tutorial/core.py')}}}
