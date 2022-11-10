@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "simple_functions.html",
+    "href": "simple_functions.html",
+    "title": "Some simple functions",
+    "section": "",
+    "text": "source\n\nmultiply\n\n multiply (x, y)\n\n\nsource\n\n\nadd\n\n add (x, y)\n\nMultiply two numbers\n\nx = 5\ny = 10\nmultiply(x,y)\n\n50\n\n\n\nx = 10\ny = 5\nadd(x,y)\n\n15"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_tutorial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_tutorial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
