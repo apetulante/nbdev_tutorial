@@ -21,3 +21,8 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+``` python
+from nbdev_tutorial.core import add
+add(1,1)
+```
