@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://apetulante.github.io/nbdev_tutorial"
+  description: "a repo for looking exploring how to use nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/apetulante/nbdev_tutorial"
